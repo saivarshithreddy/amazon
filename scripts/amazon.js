@@ -1,3 +1,6 @@
+import {cart} from "../data/cart.js";
+import {products} from "../data/products.js";
+
 function renderProducts(products) {
     let html = '';
   
